@@ -28,7 +28,7 @@ ul,label{
 }
 /*----start-container---*/
 .banner{
-	background:url(../images/banner.png) no-repeat 0px 0px;
+	background:url(../images/banner.jpg) no-repeat 0px 0px;
 	background-size: 100%;
 	min-height:340px;
 }
@@ -53,12 +53,12 @@ height:80px;
 border-left: 1px solid rgba(255, 255, 255, 0.2);
 }
 .top-menu ul li a{
-	background:rgba(246, 197, 112, 0.34);
+	background:rgba(114, 109, 100, 0.34);
 	margin: 2em 2.5em;
 	display: block;
-	color: #54332A;
+	color: #f87307;
 	font-weight:400;
-	font-size:0.9em;
+	font-size:1em;
 	text-decoration:none;
 	transition: 0.5s all;
 	-webkit-transition: 0.5s all;
@@ -66,7 +66,7 @@ border-left: 1px solid rgba(255, 255, 255, 0.2);
 	-o-transition: 0.5s all;	
 }
 .top-menu ul li a:hover,.top-menu ul li.active a{
-color:#E82806;
+color:#ffffff;
 }
 .banner-head{
 text-align:center;
@@ -147,20 +147,20 @@ padding:1em 18px;
 font-size:1.5em;
 }
 .content-grid-info h3 a,.content-sec-info h3 a{
-color:#87655B;
-margin-bottom:0.5em;
+color:#f84903;
+margin-bottom:0.7em;
 text-decoration:none;
 display:block;
 font-family: 'Oswald', sans-serif;
 }
 .content-grid-info h3 a:hover,.content-sec-info h3 a:hover{
-color:#EB5A41;
+color:#FF7200;
 }
 .content-grid-info p,.content-sec-info p{
-color:#BBA198;
+color:#6b5b55;
 line-height:1.5em;
 width:80%;
-font-size:0.95em;
+font-size:1.2em;
 font-family: 'Source Sans Pro', sans-serif;
 margin-bottom:1em;
 }
@@ -375,17 +375,17 @@ transition: 0.5s all;
 	-o-transition: 0.5s all;	
 }
 .copywrite {
-background: #65443A;
+background: #000000;
 text-align: left;
 padding: 1em 0;
 }
 .copywrite p {
-color: #8A685F;
+color: #f7f3f2;
 font-size: 1em;
 font-family: 'Source Sans Pro', sans-serif;
 }
 .copywrite p a{
-color:#FFC600;
+color:#FF7200;
 font-family: 'Source Sans Pro', sans-serif;
 }
 .copywrite p a:hover{
@@ -404,7 +404,7 @@ border-bottom:3px solid #fff;
 padding-bottom:2em;
 }
 .contact-head h3,.terms h3{
-color: #87655B;
+color: #FF7200;
 font-size: 2em;
 margin-bottom: 1em;
 font-family: 'Oswald', sans-serif;
@@ -509,10 +509,10 @@ display:block;
 padding-bottom:1em;
 }
 .terms-sec-head p{
-color: #A5877D;
+color: #8b726a;
 font-family: 'Source Sans Pro', sans-serif;
 font-size: 1em;
-line-height:1.5em;
+line-height:1.8em;
 font-weight: 400;
 }
 .term{
@@ -522,7 +522,7 @@ margin-bottom:2em;
 }
 .term h4{
 color: #EB5A41;
-font-size: 1.1em;
+font-size: 1.2em;
 }
 .term p{
 color: #87655B;
@@ -544,7 +544,7 @@ p.agree{
 display:inline-block;
 color: #A5877D;
 font-family: 'Source Sans Pro', sans-serif;
-font-size: 1em;
+font-size: 1.5em;
 font-weight: 400;
 margin-left: 0.5em;
 }
